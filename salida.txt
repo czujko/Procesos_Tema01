@@ -1,0 +1,15 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: 86D7-A127
+
+ Directorio de C:\Users\usuario\Google Drive\CI\FP\Procesos y Servicios\Mis Apuntes\C¢digo\EjerciciosTema01
+
+06/10/2021  23:18    <DIR>          .
+06/10/2021  23:18    <DIR>          ..
+06/10/2021  23:18    <DIR>          .idea
+06/10/2021  22:32               433 EjerciciosTema01.iml
+06/10/2021  23:18                 0 error.txt
+06/10/2021  22:57    <DIR>          out
+06/10/2021  23:18                 0 salida.txt
+06/10/2021  23:15    <DIR>          src
+               3 archivos            433 bytes
+               5 dirs  80.118.550.528 bytes libres
