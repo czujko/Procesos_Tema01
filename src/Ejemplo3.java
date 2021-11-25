@@ -4,7 +4,7 @@ public class Ejemplo3 {
   public static void main(String[] args) throws IOException {
 
 	//creamos objeto File al directorio donde esta Ejemplo2
-	File directorio = new File(".\\out");
+	File directorio = new File(".\\out\\production\\EjerciciosTema01");
 
 	//El proceso a ejecutar es Ejemplo2			
 	ProcessBuilder pb = new ProcessBuilder("java", "Ejemplo2");
@@ -27,6 +27,5 @@ public class Ejemplo3 {
 	} catch (Exception e) {
 		e.printStackTrace();
 	}
-		
   }
 }// Ejemplo3

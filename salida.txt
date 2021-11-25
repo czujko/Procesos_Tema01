@@ -1,15 +1,16 @@
- El volumen de la unidad C no tiene etiqueta.
- El n£mero de serie del volumen es: 86D7-A127
+ El volumen de la unidad G es DAM_FILES
+ El n£mero de serie del volumen es: D879-6135
 
- Directorio de C:\Users\usuario\Google Drive\CI\FP\Procesos y Servicios\Mis Apuntes\C¢digo\EjerciciosTema01
+ Directorio de G:\01_DAM - Murcia\0001_INFORMµTICA_2021_2022\02_Programaci¢n de Procesos y Servicios\1_EVAL\Proyectos\EjerciciosTema01
 
-06/10/2021  23:18    <DIR>          .
-06/10/2021  23:18    <DIR>          ..
-06/10/2021  23:18    <DIR>          .idea
-06/10/2021  22:32               433 EjerciciosTema01.iml
-06/10/2021  23:18                 0 error.txt
-06/10/2021  22:57    <DIR>          out
-06/10/2021  23:18                 0 salida.txt
-06/10/2021  23:15    <DIR>          src
-               3 archivos            433 bytes
-               5 dirs  80.118.550.528 bytes libres
+22/10/2021  19:09    <DIR>          .
+22/10/2021  19:09    <DIR>          ..
+18/10/2021  21:06                30 .gitignore
+25/11/2021  20:07    <DIR>          .idea
+25/11/2021  20:07                 0 error.txt
+18/10/2021  21:04    <DIR>          out
+22/10/2021  19:09               433 Procesos_Tema01.iml
+25/11/2021  20:07                 0 salida.txt
+25/11/2021  20:05    <DIR>          src
+               4 archivos            463 bytes
+               5 dirs  236.269.957.120 bytes libres

@@ -2,7 +2,7 @@ import java.io.File;
 import java.io.IOException; 
 
 public class Ejemplo8 { 
-  public static void main(String args[]) throws IOException {
+  public static void main(String[] args) throws IOException {
     ProcessBuilder pb = new ProcessBuilder("CMD");
     
     File fBat = new File("fichero.bat");
